@@ -552,3 +552,20 @@
     - elegant
     - one_column
     - white
+- name: concise
+  description: A beautiful and simple theme for hexo
+  link: https://github.com/HmyBmny/hexo-theme-concise
+  preview: https://hmybmny.github.io/hexo-theme-concise/
+  tags:
+    - material
+    - responsive
+    - elegant
+    - two_column
+    - white
+- name: wiki-i18n
+  description: A hexo theme for i18n wiki site
+  link: https://github.com/xcatliu/hexo-theme-wiki-i18n
+  preview: http://js-index.com/
+  tags:
+    - wiki
+    - i18n

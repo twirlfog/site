@@ -877,6 +877,13 @@
     - html
     - js
     - css
+- name: hexo-abbrlink
+  description: "auto create one and only link for every post for hexo"
+  link: https://github.com/rozbo/hexo-abbrlink
+  tags:
+    - permalink
+    - link
+    - 固定链接
 - name: hexo-generator-github
   description: "Github generator for Hexo"
   link: https://github.com/Jamling/hexo-generator-github
@@ -907,3 +914,45 @@
     - leaflet
     - osm
     - tracks
+- name: hexo-tag-asciinema
+  description: Embed asciinema into your post
+  link: https://github.com/zenyai/hexo-tag-asciinema
+  tags:
+    - tag
+    - asciinema
+- name: hexo-tag-kbd
+  description: Displays the keycaps in your post/page.
+  link: https://github.com/kamiya555/hexo-tag-kbd
+  tags:
+    - tag
+    - keycaps
+- name: hexo-generator-index-i18n
+  description: I18n index generator plugin for Hexo.
+  link: https://github.com/xcatliu/hexo-generator-index-i18n
+  tags:
+    - generator
+    - index
+    - i18n
+- name: hexo-generator-archive-alphabet
+  description: Generate alphabetical archive for Hexo.
+  link: https://github.com/xcatliu/hexo-generator-archive-alphabet
+  tags:
+    - generator
+    - archive
+    - alphabet
+- name: hexo-generator-archive-alphabet-i18n
+  description: Generate i18n alphabetical archive for Hexo.
+  link: https://github.com/xcatliu/hexo-generator-archive-alphabet-i18n
+  tags:
+    - generator
+    - archive
+    - alphabet
+    - i18n
+- name: hexo-tag-tencent
+  description: A hexo plugin for inserting youku or tencent video in your site.
+  link: https://github.com/HmyBmny/hexo-tag-tencent
+  tags:
+    - tag
+    - video
+    - youku 
+    - tencent video
